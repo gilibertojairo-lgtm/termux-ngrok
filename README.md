@@ -2,12 +2,12 @@ Ngrok para Termux 🚀
 
 Este repositorio permite instalar y usar Ngrok en Termux de forma rápida y directa. Para instalarlo, primero clona el repositorio con  
 
-git clone https://github.com/tu-usuario/termux-ngrok.git  
+``` git clone https://github.com/tu-usuario/termux-ngrok.git  ```
 
 y entra en la carpeta con  
-
+```
 cd termux-ngrok  
-
+```
 Una vez dentro, ejecuta  
 
 sh install.sh  
